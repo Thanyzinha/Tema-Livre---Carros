@@ -1,0 +1,33 @@
+
+   h1{
+       text-align: center;
+       color:black;
+       font-size: 50pt;
+       font-family: 'Times New Roman';
+       background-color: rgb(253, 253, 253);
+   }
+   h2{
+       text-align: center;
+       color: rgb(245, 239, 239);
+       font-family: Arial;
+   }
+   h3{
+    text-align: center;
+    color: rgb(245, 239, 239);
+    font-family: Arial;
+}
+
+    h4{
+        text-align: center;
+        font-size: 25px;
+    }
+   p{
+       text-align: justify;
+       text-indent: 50px;
+   }
+   img{
+    width: 475px;
+       height:550px;
+       border-radius: 20px;
+       
+   }
